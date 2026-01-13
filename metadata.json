@@ -1,0 +1,8 @@
+{
+  "name": "PsicSugey Learning",
+  "description": "A comprehensive educational platform for psychology and mental health, featuring course management, progress tracking, and AI-powered summaries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
