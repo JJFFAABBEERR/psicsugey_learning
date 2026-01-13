@@ -11,7 +11,7 @@ export const Home: React.FC = () => {
       {/* Hero Section */}
       <section className="relative overflow-hidden pt-20 pb-28 md:pt-32 md:pb-40 bg-psic-blue text-white">
         <div className="absolute inset-0 opacity-10">
-          <img src="pages/images/sugey.jpeg" className="w-full h-full object-cover" alt="Hero background" />
+          <img src="/Sugey.jpeg" className="w-full h-full object-cover" alt="Hero background" />
         </div>
         
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
