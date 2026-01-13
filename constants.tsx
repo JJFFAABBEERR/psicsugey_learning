@@ -6,11 +6,11 @@ export const MOCK_COURSES: Course[] = [
     id: '1',
     title: 'Psicología',
     description: 'Entiende el desarrollo emocional y cognitivo desde la primera infancia hasta la pre-adolescencia.',
-    instructor: 'Dra. Sugey Bedoya r',
+    instructor: 'Dra. Sugey Bedoya',
     price: 49.99,
     rating: 4.9,
     students: 1250,
-    image: 'pages/images/Mente_Cuerpo_Armonia.jpg',
+    image: 'pages/images/Mente_Cuerpo_Arm',
     category: 'Infantil',
     modules: [
       {
