@@ -10,7 +10,7 @@ export const MOCK_COURSES: Course[] = [
     price: 49.99,
     rating: 4.9,
     students: 1250,
-    image: 'pages/images/Mente_Cuerpo_Arm',
+    image: 'pages/images/ferrari.jpg',
     category: 'Infantil',
     modules: [
       {
