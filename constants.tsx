@@ -38,7 +38,7 @@ export const MOCK_COURSES: Course[] = [
     price: 35.00,
     rating: 4.7,
     students: 840,
-    image: 'https://images.unsplash.com/photo-1518057111178-44a106bad636?auto=format&fit=crop&w=800&q=80',
+    image: '/Fit_Brain.jpg',
     category: 'Bienestar',
     modules: [
       {
@@ -58,7 +58,7 @@ export const MOCK_COURSES: Course[] = [
     price: 59.99,
     rating: 4.8,
     students: 620,
-    image: 'https://images.unsplash.com/photo-1499209974431-9dac3adaf471?auto=format&fit=crop&w=800&q=80',
+    image: '/Liderate.jpg',
     category: 'Profesional',
     modules: [
       {
