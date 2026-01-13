@@ -10,7 +10,7 @@ export const MOCK_COURSES: Course[] = [
     price: 49.99,
     rating: 4.9,
     students: 1250,
-    image: 'pages/images/mente_cuerpo_armonia.jpg',
+    image: 'pages/images/Mente_Cuerpo_Armonia.jpg',
     category: 'Infantil',
     modules: [
       {
