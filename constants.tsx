@@ -6,7 +6,7 @@ export const MOCK_COURSES: Course[] = [
     id: '1',
     title: 'Psicología',
     description: 'Entiende el desarrollo emocional y cognitivo desde la primera infancia hasta la pre-adolescencia.',
-    instructor: 'Dra. Sugey Bedoya',
+    instructor: 'Dra. Sugey Bedoya r',
     price: 49.99,
     rating: 4.9,
     students: 1250,
