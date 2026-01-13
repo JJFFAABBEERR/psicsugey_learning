@@ -4,7 +4,7 @@ import { Course } from './types';
 export const MOCK_COURSES: Course[] = [
   {
     id: '1',
-    title: 'Psicología Avanzada',
+    title: 'Psicología',
     description: 'Entiende el desarrollo emocional y cognitivo desde la primera infancia hasta la pre-adolescencia.',
     instructor: 'Dra. Sugey Bedoya',
     price: 49.99,
